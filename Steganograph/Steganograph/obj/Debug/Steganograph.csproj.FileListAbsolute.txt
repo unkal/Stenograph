@@ -1,0 +1,9 @@
+c:\users\lord\documents\visual studio 2015\Projects\Steganograph\Steganograph\bin\Debug\Steganograph.exe.config
+c:\users\lord\documents\visual studio 2015\Projects\Steganograph\Steganograph\bin\Debug\Steganograph.exe
+c:\users\lord\documents\visual studio 2015\Projects\Steganograph\Steganograph\bin\Debug\Steganograph.pdb
+c:\users\lord\documents\visual studio 2015\Projects\Steganograph\Steganograph\obj\Debug\Steganograph.csprojResolveAssemblyReference.cache
+c:\users\lord\documents\visual studio 2015\Projects\Steganograph\Steganograph\obj\Debug\Steganograph.Form.resources
+c:\users\lord\documents\visual studio 2015\Projects\Steganograph\Steganograph\obj\Debug\Steganograph.Properties.Resources.resources
+c:\users\lord\documents\visual studio 2015\Projects\Steganograph\Steganograph\obj\Debug\Steganograph.csproj.GenerateResource.Cache
+c:\users\lord\documents\visual studio 2015\Projects\Steganograph\Steganograph\obj\Debug\Steganograph.exe
+c:\users\lord\documents\visual studio 2015\Projects\Steganograph\Steganograph\obj\Debug\Steganograph.pdb
